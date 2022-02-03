@@ -222,6 +222,7 @@ h1, h2, h3, p {
 .hero {
   background-color: var(--color-dark-gray);
   height: 600px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   padding-top: 200px;
